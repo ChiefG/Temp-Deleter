@@ -11,7 +11,7 @@ Windows Operating System
 Download the main.py file from the GitHub repository.
 Save the file to a location on your computer.
 Open the Command Prompt or PowerShell on your Windows computer.
-Type the following command to run the script: python tempcleaner.py.
+Type the following command to run the script: python main.py.
 Press Enter to execute the command.
 The script will automatically search for and delete files in the temporary folder on your computer.
 
