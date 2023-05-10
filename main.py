@@ -1,5 +1,6 @@
 import os
 
+os.system("cls")
 username = os.getlogin()
 folder = os.path.join("C:/Users", username, "AppData/Local/Temp")
 
