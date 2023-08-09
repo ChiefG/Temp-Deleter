@@ -18,4 +18,4 @@ The script will automatically search for and delete files in the temporary folde
 Note: If you want to specify a different directory to delete files from, you can modify the folder variable in the script to point to the desired folder.
 
 # Support
-If you encounter any issues while using TempCleaner, please feel free to contact us via the GitHub repository issues or make a ticket on https://discord.gg/generator. We'll do our best to help you resolve the issue as quickly as possible.
+If you encounter any issues while using TempCleaner, please feel free to contact us via the GitHub repository issues or make a ticket on https://discord.gg/raJybt2Mkc. We'll do our best to help you resolve the issue as quickly as possible.
